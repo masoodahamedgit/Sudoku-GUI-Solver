@@ -1,0 +1,19 @@
+open Powerpiont file
+pick monday date
+pick coming sunday date
+concatenate both date
+get ESB on call member
+get Edt on call member
+get edt on call member phone number
+place concatenaed date 
+place esb on call number
+place on call edt name and number
+save the Powerpiont
+open email
+new mail
+paste the Powerpiont
+Change the subject to "on call for "concated date
+capture teh subject
+enter the email id
+verify 
+send manually
